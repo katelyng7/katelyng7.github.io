@@ -27,5 +27,3 @@ I am currently an Undergraduate Researcher at [MIT CSAIL](https://www.csail.mit.
 ## 📰 Recent News
 * **Dec 2025:** Joined MIT CSAIL as an Undergraduate Researcher under Prof. Kaiming He.
 * **Aug 2025:** Began my B.S. in Mathematics and Computer Science at MIT!
-* **Jan 2025:** Presented my combinatorial game theory research at the Joint Mathematics Meetings (JMM) in Seattle, WA.
-* **May 2024:** Awarded the 4th Place Grand Award in Physics & Astronomy at ISEF!
