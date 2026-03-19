@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "Katelyn Gan"
-  avatar: "/images/profile.jpg" # Make sure to put your photo in the 'images/' folder and name it profile.jpg
+  avatar: "profile.jpg" # Make sure to put your photo in the 'images/' folder and name it profile.jpg
   bio: "Undergraduate Researcher at MIT CSAIL, B.S. Mathematics & Computer Science"
   location: "Cambridge, MA"
   email: "kgan@mit.edu"
