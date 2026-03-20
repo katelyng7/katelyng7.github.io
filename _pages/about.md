@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Katelyn Gan! 👋
 
-I am an undergraduate student at the **[MIT](https://web.mit.edu/)**, double majoring in [Mathematics](https://math.mit.edu/) and [Computer Science](https://www.eecs.mit.edu/research/computer-science/). 
+I am an undergraduate student at the [MIT](https://web.mit.edu/), double majoring in [Mathematics](https://math.mit.edu/) and [Computer Science](https://www.eecs.mit.edu/research/computer-science/). 
 
 I am currently an Undergraduate Researcher at [MIT CSAIL](https://www.csail.mit.edu/node/2873) under Prof. [Kaiming He](https://people.csail.mit.edu/kaiming/), where I train and optimize Vision Transformers (ViT) on Google Cloud TPU clusters. Previously, I conducted research in computer vision for exoplanet detection and game-theoretic behavior in combinatorics.
 
