@@ -17,11 +17,11 @@ I am currently an Undergraduate Researcher at [MIT CSAIL](https://www.csail.mit.
 
 ## 📚 Selected Publications
 
-* **Xiaoman Ding, Keya Hu, Katelyn Gan, Victor Yin, Kaiming He**, "Natural Image Pretraining Improves Abstract Reasoning," *Accepted to the European Conference on Computer Vision (ECCV)*, 2026. 
-* **Y. Choi and K. Gan**, "[Ungar Games on the Young-Fibonacci and the Order Ideals of Shifted Staircase Lattices](https://arxiv.org/abs/2406.10927)," *Submitted for publication*, 2025. [[PDF]](/files/Ungar Games on the Young-Fibonacci and the Shifted Staircase Lattices.pdf)
-* **Y. Choi, K. Gan, A. Li, and T. Zhu**, "[Set Partitions that Require a Maximum Number of Sorts Through the aba-avoiding Stack](https://ecajournal.haifa.ac.il/Volume2025/ECA2025_S2A1.pdf)," *Enumerative Combinatorics and Applications*, Volume 5:1, Article S2R1, 2025. [[PDF]](/files/Set Partitions that Require a Maximum Number of Sorts Through the aba-avoiding Stack.pdf)
-* **C. Bao, G. Cerbai, Y. Choi, K. Gan, and O. Zhang**, "[On a Conjecture on Pattern-avoiding Machines](https://link.springer.com/article/10.1007/s00026-024-00693-3)," *Annals of Combinatorics*, 2024. [[PDF]](/files/On a Conjecture on Pattern-Avoiding Machines.pdf)
-* **K. Gan and V. Rajpaul**, "[A Computer Vision Approach to Radial Velocity Extraction for Exoplanet Detection](https://ieeexplore.ieee.org/abstract/document/10534937/?casa_token=ViCCncYoShEAAAAA:rgiPh7lm0dbifN3KhmFFcACQ3UYkoa7atZa5I6TwW-cnDO2ISi8a04fXDUBSzUl5oYTqfst9yg)," *2023 IEEE MIT URTC*, Cambridge, MA, 2023. [[PDF]](/files/Katelyn_Gan_MIT_URTC2023_Paper_final.pdf)
+* **Xiaoman Ding, Keya Hu, <u>Katelyn Gan</u>, Victor Yin, Kaiming He**, "Natural Image Pretraining Improves Abstract Reasoning," *Accepted to the European Conference on Computer Vision (ECCV)*, 2026. 
+* **Yunseo Choi and <u>Katelyn Gan</u>**, "[Ungar Games on the Young-Fibonacci and the Order Ideals of Shifted Staircase Lattices](https://arxiv.org/abs/2406.10927)," *Submitted for publication*, 2025. [[PDF]](/files/Ungar Games on the Young-Fibonacci and the Shifted Staircase Lattices.pdf)
+* **Yunseo Choi, <u>Katelyn Gan</u>, Andrew Li, Tiffany Zhu**, "[Set Partitions that Require a Maximum Number of Sorts Through the aba-avoiding Stack](https://ecajournal.haifa.ac.il/Volume2025/ECA2025_S2A1.pdf)," *Enumerative Combinatorics and Applications*, Volume 5:1, Article S2R1, 2025. [[PDF]](/files/Set Partitions that Require a Maximum Number of Sorts Through the aba-avoiding Stack.pdf)
+* **Christopher Bao, Giulio Cerbai, Yunseo Choi, <u>Katelyn Gan</u>, Owen Zhang**, "[On a Conjecture on Pattern-avoiding Machines](https://link.springer.com/article/10.1007/s00026-024-00693-3)," *Annals of Combinatorics*, 2024. [[PDF]](/files/On a Conjecture on Pattern-Avoiding Machines.pdf)
+* **<u>Katelyn Gan</u> and Vinesh Maguire Rajpaul**, "[A Computer Vision Approach to Radial Velocity Extraction for Exoplanet Detection](https://ieeexplore.ieee.org/abstract/document/10534937/?casa_token=ViCCncYoShEAAAAA:rgiPh7lm0dbifN3KhmFFcACQ3UYkoa7atZa5I6TwW-cnDO2ISi8a04fXDUBSzUl5oYTqfst9yg)," *2023 IEEE MIT URTC*, Cambridge, MA, 2023. [[PDF]](/files/Katelyn_Gan_MIT_URTC2023_Paper_final.pdf)
 
 ---
 
