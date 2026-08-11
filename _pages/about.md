@@ -26,6 +26,6 @@ I am currently an Undergraduate Researcher at [MIT CSAIL](https://www.csail.mit.
 ---
 
 ## 📰 Recent News
-* **May 2026:** Started my first summer internship as a Backend Software Engineer at an AI Startup [Thinkstruct] (https://thinkstruct.com/). 
+* **May 2026:** Started my first summer internship as a Backend Software Engineer at an AI Startup [Thinkstruct](https://thinkstruct.com/). 
 * **Dec 2025:** Joined [MIT CSAIL](https://www.csail.mit.edu/node/2873) as an Undergraduate Researcher under Prof. [Kaiming He](https://people.csail.mit.edu/kaiming/).
 * **Aug 2025:** Began my B.S. in Mathematics and Computer Science at MIT!
